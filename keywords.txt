@@ -1,0 +1,10 @@
+# Syntax Coloring Map For ModbusIP
+
+# Datatypes (KEYWORD1)
+ModbusIPWiFi    	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+config          KEYWORD2
+taskwifi            KEYWORD2
+
+# Constants (LITERAL1)
